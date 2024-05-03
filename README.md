@@ -1,8 +1,8 @@
 # Literary-Delight
 My personal PHP code for my computer science project in form 5.
 ## Project Overview
-[![Watch the video]()](https://www.canva.com/design/DAGEJ9BqBa4/h9ujAeAWCO5cNdl4_VPL2A/watch?utm_content=DAGEJ9BqBa4&utm_campaign=designshare&utm_medium=link&utm_source=editor)
-
+[![Watch the video]((https://github.com/Shi-Min-Yeoh/Literary-Delight/assets/127620100/5b330e96-c09a-4882-a149-0b43982d3b02)
+)](https://www.canva.com/design/DAGEJ9BqBa4/YSFScY8ciYJ26ON1uPP_ZA/watch)
 
 ## How to use
 1) install xampp
